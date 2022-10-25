@@ -34,7 +34,6 @@ This was my first Onshape part and I learned about
 * sketching (shortcut **shift-s**)
 * dimensions (shortcut **D**)
 * the use tool(which takes the dimensions from anything)
-* 
 
 Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
 
@@ -48,13 +47,15 @@ the key engages the gears in the spinner and will propell the spinner off
 ### Evidence
 [The Key in Onshape](https://cvilleschools.onshape.com/documents/73d7010c7540dad2063afac7/w/665c6b0b34cbec05f29edf63/e/8fc303e644267fed44872084)
 ### Image
-
+![key imagge](https://github.com/lwhitmo/IntermediateCAD/blob/main/images/key.png)
 ### Reflection
-
+In the key, i learned how to use:
+* linear pattern
+* It is also important to remember to check how many indents you want or else it might to far into the ring for the puller
+* limits on a slider
 ---
 
-
-## Fork
+## CAD_SwingArm 
 
 ### Description
 
@@ -63,6 +64,9 @@ the key engages the gears in the spinner and will propell the spinner off
 ### Image
 
 ### Reflection
+I learned:
+* to use constraints before dimensions
+
 
 ---
 
@@ -104,3 +108,14 @@ the key engages the gears in the spinner and will propell the spinner off
 ### Reflection
 
 ---
+---
+## CAD_SwingArm 
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
