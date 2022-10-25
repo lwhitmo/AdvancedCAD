@@ -12,17 +12,17 @@
 ## CAD_PullCopter
 
 ### Description
+The pull copter is meant to create a ring on which you can put a spinner that will fly into the air when gears are activiated.
 
-
-## Base
+## Ring
 
 
 ### Description
 
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+The first assignment is to create the ring. The dimensions of the top face of are the same of those of the top. A circle is added for the ring and is added to the top of the ring. 
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+[The Ring in Onshape](https://cvilleschools.onshape.com/documents/73d7010c7540dad2063afac7/w/665c6b0b34cbec05f29edf63/e/8fc303e644267fed44872084)
 
 ### Image
 
