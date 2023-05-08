@@ -121,7 +121,7 @@ The intent of this assignment is to become more fluent in the language of onshap
 
 ### Evidence
 
-
+![completed assembly](https://github.com/lwhitmo/IntermediateCAD/blob/main/images/Screen%20Shot%202023-05-08%20at%203.37.17%20PM.png)
 
 
 
