@@ -5,6 +5,7 @@
 * [CAD_PullCopter](#CAD_PullCopter)
 * [CAD_SwingArm](#CAD_SwingArm)
 * [CAD_MultiPartStudio](#CAD_MultiPartStudio)
+* [CAD_Assemblies](#CAD_Assemblies)
 ---
 
 
@@ -112,3 +113,20 @@ Image credit goes to [Grant Gastinger](https://github.com/ggastin30/Intermediate
 
 ### Reflection
 One thing that i learned from this assignment was the importance of section view. When making the top cap, i struggled with making a sketch on the front plane and revolving it around the circle. Also, when using the section veiw, you have to make sure you have a construction line to base the sketch off of or there will be no spot to draw the sketch. The last thing that i struggled with was making the plunger. I thought that the best way to make it was to repeat the method of using the section view. I found that it was much easier to make a plane 15mm below the top of the plunger and extrude up.
+
+## CAD_Assemblies
+
+### Description
+The intent of this assignment is to become more fluent in the language of onshape assemblies. This assignment requires you to use mates to position a collection of parts in the shape of a pair of pliers. Coming up on the onshape exam, this is a helpful assignment to work on some of the things seen on the assembly portion of the exam.
+
+### Evidence
+
+
+
+
+
+### Reflection
+Some things that i learned from this assignment were:
+* use of parallel mates to ensure to parts will always stay that angle
+* limits on rotating mates (helps if you dont want parts to intersect.)
+* to always check you have the correct edge of contact when mating two parts (will cuase for a sticky situation if you forget)
