@@ -130,3 +130,20 @@ Some things that i learned from this assignment were:
 * use of parallel mates to ensure to parts will always stay that angle
 * limits on rotating mates (helps if you dont want parts to intersect.)
 * to always check you have the correct edge of contact when mating two parts (will cuase for a sticky situation if you forget)
+
+
+
+
+## CAD_OnshapeExam
+
+### Description
+This is the reflection for the exam that was required to prove compentency in the computer aided design software Onshape.
+
+### Evidence
+
+(![exam summary](https://user-images.githubusercontent.com/112962114/236919634-998e41cf-46cc-4c25-8dee-e07c0bdbf066.png))
+This is the summary after I took the exam a second time.
+
+
+### Reflection
+Reflecting back on this exam, I did take it twice and I would say that is mainly due to the fact that I was not mentally prepared on the first occasion that I took it. In the fututre when taking exams like this, I would recognize my mental state and understand that I might have to take it again, which is exactly what i did in this scenario. Another thing I could focus on might be to work on the google searching that was required for the knowledge based section.
